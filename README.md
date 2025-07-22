@@ -29,8 +29,10 @@ Predecir la nota final `G3` usando variables socioeconómicas, familiares, acad�
 
 ## 👨‍💻 Autor
 
-Martínez Chávez Cristofer Benjamín
-Quispe Yauri Rosario Lizeth
-Rodríguez Galindo Rogelio Armando
+- Martínez Chávez Cristofer Benjamín
+- Quispe Yauri Rosario Lizeth
+- Rodríguez Galindo Rogelio Armando
 
 # Proyecto_Final_RL
+
+## Link de [github] (https://github.com/rosquiya/Proyecto_Final_RL)
