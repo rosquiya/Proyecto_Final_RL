@@ -35,4 +35,4 @@ Predecir la nota final `G3` usando variables socioecon√≥micas, familiares, acad√
 
 # Proyecto_Final_RL
 
-## Link de [github] (https://github.com/rosquiya/Proyecto_Final_RL)
+## Link de [github](https://github.com/rosquiya/Proyecto_Final_RL)
